@@ -74,7 +74,6 @@ class GameLevelAutumn {
       src: "/images/projects/racing-game/BoxObstacle.png",
       coordinateSpace: "normalized",
       SCALE_FACTOR: 10,
-      STEP_FACTOR: 1100,
       INIT_POSITION: { x: 0.47, y: 0.25 },
       hitbox: { widthPercentage: 0.5, heightPercentage: 0.5 },
       pixels: { height: 369, width: 676 },
